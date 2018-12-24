@@ -35,6 +35,7 @@ population = [
 	marcus_aurelius
 ]
 
+
 book = Club("Book Club", "A book club")
 book.recruit_member(steve)
 book.recruit_member(ron)
